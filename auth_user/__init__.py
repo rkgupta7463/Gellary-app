@@ -1,0 +1,1 @@
+default_app_config='auth_user.apps.AuthUserConfig'#app_name.apps_file_name.apps_class_name(which exit in apps file)
